@@ -1,3 +1,4 @@
 git inite →カレントディレクトリにローカルリポジトリ作成
 git add →index.filに登録
-git commit→履歴として記録
+git commit →履歴として記録
+git merge -ブランチ名- →現在作業中のブランチに指定のブランチをマージする
